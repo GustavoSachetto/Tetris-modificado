@@ -4,6 +4,8 @@ Projeto de estudo baseado em modificar o jogo do tetris para que as peças fique
 
 #javascript #canva #jogo2d
 
+- __Link para jogar:__ https://gustavosachetto.site/food-tetris/
+
 ## Desenvolvimento
 __Foi utilizado para o projeto:__
 - Funções
