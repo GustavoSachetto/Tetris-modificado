@@ -26,8 +26,8 @@ __Capa:__
 
 __Jogo:__
 
-![Tetris-mod-2](https://github.com/user-attachments/assets/33adc21e-c89c-4df4-94b5-bd44d99ed21a)
+![Tetris-mod-2](https://github.com/user-attachments/assets/cf126db7-da94-45e0-bf1d-428ee6c369b9)
 
 __Fim:__
 
-![Tetris-mod-3](https://github.com/user-attachments/assets/cd5cd091-2f1d-4684-8e2a-883639f08484)
+![Tetris-mod-3](https://github.com/user-attachments/assets/04f53a87-2990-4352-a9d3-3fd16e73a48d)
