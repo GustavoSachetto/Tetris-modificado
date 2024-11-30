@@ -1,6 +1,6 @@
 # Tetris-modificado
 
-Projeto de estudo baseado em modificar o jogo do tetris totalmente desenvolvido com __javascript__. 
+Projeto de estudo baseado em modificar o jogo do tetris para que as peças fiquem no formato de comida, foi totalmente desenvolvido com javascript. 
 
 #javascript #canva #jogo2d
 
