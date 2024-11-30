@@ -2,6 +2,9 @@
 
 Projeto de estudo baseado em modificar o jogo do tetris totalmente desenvolvido com __javascript__. 
 
+#javascript #canva #jogo2d
+
+## Desenvolvimento
 __Foi utilizado para o projeto:__
 - Funções
 - Arrays
